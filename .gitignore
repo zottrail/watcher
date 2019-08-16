@@ -1,3 +1,6 @@
 dist*
 auth-token.secret
 .env
+Main.hi
+main
+Main.o
